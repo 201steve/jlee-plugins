@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "jlee-plugins",
+  "version": "1.0.0",
+  "description": "Personal Claude plugins by jlee",
+  "owner": {
+    "name": "jlee"
+  },
+  "plugins": [
+    {
+      "name": "spec-forge",
+      "description": "BA → 기획자 → QA 3단계 워크플로우로 PRD를 자동 생성하는 플러그인",
+      "source": "./spec-forge",
+      "category": "productivity"
+    }
+  ]
+}
