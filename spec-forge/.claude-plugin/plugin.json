@@ -1,0 +1,9 @@
+{
+  "name": "spec-forge",
+  "version": "0.1.0",
+  "description": "BA → 기획자 → QA 3단계 에이전트 워크플로우로 PRD를 자동 생성하는 플러그인",
+  "author": {
+    "name": "jlee-plugins"
+  },
+  "keywords": ["prd", "planning", "spec", "product", "requirements"]
+}
